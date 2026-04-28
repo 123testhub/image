@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/123testhub/image/refs/heads/main/beinsport.jpg",sky sport
 https://raw.githubusercontent.com/123testhub/image/refs/heads/main/skysport.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/123testhub/image/refs/heads/main/beinsport.jpg",monomax2
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax2.m3u8
