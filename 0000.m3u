@@ -17,3 +17,14 @@ https://raw.githubusercontent.com/123testhub/image/refs/heads/main/mn5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax.jpg",monomax6
 https://raw.githubusercontent.com/123testhub/image/refs/heads/main/mn6.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslHSRSz6F-097SFkpVXuVWXzJbE0VAmd43o2kLZKk-6it8bfit6NtVTQ-&s=10",hub1
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/hub1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslHSRSz6F-097SFkpVXuVWXzJbE0VAmd43o2kLZKk-6it8bfit6NtVTQ-&s=10",hub2
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/hub2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslHSRSz6F-097SFkpVXuVWXzJbE0VAmd43o2kLZKk-6it8bfit6NtVTQ-&s=10",hub2uhd
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/hub2uhd.m3u8
+
+
