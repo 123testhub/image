@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/123testhub/image/refs/heads/main/mn2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax.jpg",monomax3
 https://raw.githubusercontent.com/123testhub/image/refs/heads/main/mn3.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax.jpg",monomax4
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/mn4.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax.jpg",monomax5
 https://raw.githubusercontent.com/123testhub/image/refs/heads/main/mn5.m3u8
 
