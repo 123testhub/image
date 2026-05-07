@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-logo="xxx" group-title="server dookeela",beIN Sports 1 (AXN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/axn|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://dookeela4.live/
