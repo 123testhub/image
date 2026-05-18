@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tsport1" tvg-name="T Sports 1" group-title="Sports",T Sports 1 HD
+https://love.tivov68423.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tsport2" tvg-name="T Sports 2" group-title="Sports",T Sports 2 HD
+https://love.tivov68423.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tsport3" tvg-name="T Sports 3" group-title="Sports",T Sports 3 HD
+https://love.tivov68423.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tsport5" tvg-name="T Sports 5" group-title="Sports",T Sports 5 SD
+https://love.tivov68423.workers.dev/vx-origin/sd-tsport5_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tsport7" tvg-name="T Sports 7" group-title="Sports",T Sports 7 SD
+https://love.tivov68423.workers.dev/vx-origin/sd-tsport7_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1" tvg-name="beIN Sports 1" group-title="Sports",beIN Sports 1 / EPL 1
+https://love.tivov68423.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein2" tvg-name="beIN Sports 2" group-title="Sports",beIN Sports 2 / EPL 2
+https://love.tivov68423.workers.dev/vx-origin/epl-bein2_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein3" tvg-name="beIN Sports 3" group-title="Sports",beIN Sports 3 / EPL 3
+https://love.tivov68423.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
