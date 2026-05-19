@@ -1,0 +1,70 @@
+{
+  "name": "Sports Playlist",
+  "image": "https://store-images.s-microsoft.com/image/apps.4682.13664139119741608.64974bcd-a161-46cc-8cd2-1a38fcdd75c1.14c1a500-7505-4851-bb77-9c24f7159aae",
+  "groups": [
+    {
+      "name": "Sports",
+      "image": "https://store-images.s-microsoft.com/image/apps.4682.13664139119741608.64974bcd-a161-46cc-8cd2-1a38fcdd75c1.14c1a500-7505-4851-bb77-9c24f7159aae",
+      "stations": [
+        {
+          "name": "bein1",
+          "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein1.m3u8"
+        },
+        {
+          "name": "bein2",
+          "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein2.m3u8"
+        },
+        {
+          "name": "bein3",
+          "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein3.m3u8"
+        },
+        {
+          "name": "spotv1",
+          "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/spotv1.m3u8"
+        },
+        {
+          "name": "spotv2",
+          "image": "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/spotv2.m3u8"
+        },
+        {
+          "name": "truesport1",
+          "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport1.m3u8"
+        },
+        {
+          "name": "truesport2",
+          "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport2.m3u8"
+        },
+        {
+          "name": "truesport3",  "image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+          "url": "https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8",
+            "Referer":"https://www.88-hd.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "truesport5",
+          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport5.m3u8"
+        },
+        {
+          "name": "truesport7",
+          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport7.m3u8"
+        },
+        {
+          "name": "truetennis",
+          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truetennis.m3u8"
+        }
+      ]
+    }
+  ]
+}
+
+```
