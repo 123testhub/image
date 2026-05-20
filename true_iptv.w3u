@@ -40,13 +40,14 @@
           "name": "truesport2",
           "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
           "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport2.m3u8"
-        },
-        {
-          "name": "truesport3",  "image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
-          "url": "https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8",
-            "Referer":"https://www.88-hd.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
+                               },
+                        {
+                            "name": "TRUE Sport 3 (สำรอง)",
+                            "image": "https://dookeela4.live/uploads/1664802480.png",
+                            "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8",
+                            "userAgent": "Moo7 Smarters | TW9vNyBTbWFydGVycw==",
+                            "playInNatPlayer": "true"
+},
         {
           "name": "truesport5",
           "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",
