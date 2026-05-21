@@ -15,6 +15,22 @@
           "name": "bein2",
           "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
           "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein2.m3u8"
+},
+        {
+          "name": "monomax1",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax1.m3u8"
+        },
+        {
+          "name": "monomax2",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax22.m3u8"
+        },
+        {
+          "name": "monomax2.1",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax2.m3u8"
+        
         },
         {
           "name": "bein3",
