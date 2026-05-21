@@ -9,79 +9,104 @@
         {
           "name": "bein1",
           "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein1.m3u8"
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein1.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "bein2",
           "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein2.m3u8"
-},
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein2.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
+        },
         {
           "name": "monomax1",
           "image": "xxx",
-          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax1.m3u8"
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax1.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "monomax2",
           "image": "xxx",
-          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax22.m3u8"
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax22.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "monomax2.1",
           "image": "xxx",
-          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax2.m3u8"
-        
+          "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/monomax2.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "bein3",
           "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein3.m3u8"
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/bein3.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "spotv1",
           "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/spotv1.m3u8"
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/spotv1.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "spotv2",
           "image": "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/spotv2.m3u8"
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/spotv2.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "truesport1",
           "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport1.m3u8"
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport1.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         },
         {
           "name": "truesport2",
           "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport2.m3u8"
-                               },
-                        {
-                            "name": "TRUE Sport 3 (สำรอง)",
-                            "image": "https://dookeela4.live/uploads/1664802480.png",
-                            "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8",
-                            "userAgent": "Moo7 Smarters | TW9vNyBTbWFydGVycw==",
-                            "playInNatPlayer": "true"
-},
-        {
-          "name": "truesport5",
-          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport5.m3u8"
-        },
-        {
-          "name": "truesport7",
-          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport7.m3u8"
-        },
-        {
-          "name": "truetennis",
-          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
-          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truetennis.m3u8"
+          "url": "https://raw.githubusercontent.com/prachyak13/iptvtest/refs/heads/main/truesport2.m3u8",
+          "httpHeaders": {
+            "User-Agent": "Televizo",
+            "Connection": "close",
+            "Accept": "*/*"
+          }
         }
       ]
     }
   ]
 }
-
-```
