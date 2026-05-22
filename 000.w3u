@@ -1,0 +1,1102 @@
+{
+  "name": "by tobi zaru",
+  "author": "hack by tobi zaru",
+  "image": "xxx",
+  "url": "",
+  "groups": [
+    {
+      "name": "1",
+      "author": "xxx",
+      "image": "xxx",
+      "info": "xxx",
+      "groups": [
+        {
+          "name": "1",
+          "image": "xxx",
+          "stations": [
+            {
+              "name": "spotv1",
+              "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115304.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv1_[backup1]",
+              "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115427.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv1_[backup2]",
+              "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115673.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv1_[backup3]",
+              "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115682.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv1_[backup4]",
+              "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115684.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv1_[backup5]",
+              "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563004.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv2",
+              "image": "https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115305.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv2_[backup1]",
+              "image": "https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115433.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "spotv2_[backup2]",
+              "image": "https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115686.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "discovery",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrldx9gNmXR2hZKe8v3CKsF3exEmLOnKtXYQ&s",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115399.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "discovery_[backup1]",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrldx9gNmXR2hZKe8v3CKsF3exEmLOnKtXYQ&s",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115652.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "cn",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/3840px-Cartoon_Network_2010_l",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115410.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "cn_[backup1]",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/3840px-Cartoon_Network_2010_l",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115632.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "cn_[backup2]",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/3840px-Cartoon_Network_2010_l",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115654.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_film1",
+              "image": "true_film1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115415.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_film1_[backup1]",
+              "image": "true_film1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115416.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_film1_[backup2]",
+              "image": "true_film1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115667.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "cinemax",
+              "image": "cinemax",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115420.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "cinemax_[backup1]",
+              "image": "cinemax",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563005.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "wb",
+              "image": "wb",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115439.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "wb_[backup1]",
+              "image": "wb",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563012.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "golfplus",
+              "image": "golfplus",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115446.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "golfplus_[backup1]",
+              "image": "golfplus",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115698.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "golfplus_[backup2]",
+              "image": "golfplus",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115699.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "golfplus_[backup3]",
+              "image": "golfplus",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115702.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "golfplus_[backup4]",
+              "image": "golfplus",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115703.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_film_asia",
+              "image": "true_film_asia",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115498.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_film_asia_[backup1]",
+              "image": "true_film_asia",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115665.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax2",
+              "image": "monomax2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115516.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax2_[backup1]",
+              "image": "monomax2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/813034.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax2_[backup2]",
+              "image": "monomax2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115758.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truefootball3",
+              "image": "truefootball3",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115524.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truefootball3_[backup1]",
+              "image": "truefootball3",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115608.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport1",
+              "image": "truesport1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115531.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport2",
+              "image": "truesport2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115533.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport2_[backup1]",
+              "image": "truesport2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115534.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport2_[backup2]",
+              "image": "truesport2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115790.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport5",
+              "image": "truesport5",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115535.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport5_[backup1]",
+              "image": "truesport5",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115541.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "truesport7",
+              "image": "truesport7",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115799.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein3",
+              "image": "bein3",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115601.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein3_[backup1]",
+              "image": "bein3",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115730.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein3_[backup2]",
+              "image": "bein3",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/813150.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein3_[backup3]",
+              "image": "bein3",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/1376204.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "animal_show",
+              "image": "animal_show",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115610.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "animal_show_[backup1]",
+              "image": "animal_show",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115619.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_asian_more",
+              "image": "true_asian_more",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563002.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_asian_more_[backup1]",
+              "image": "true_asian_more",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563003.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "cricbuzz",
+              "image": "cricbuzz",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115614.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "astro_premier",
+              "image": "astro_premier",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115615.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "astro_premier2",
+              "image": "astro_premier2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115616.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "astro_grand",
+              "image": "astro_grand",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115617.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "astro_football",
+              "image": "astro_football",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115618.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "axn",
+              "image": "axn",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115620.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "rush",
+              "image": "rush",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115621.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "movie_sphere",
+              "image": "movie_sphere",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115624.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "rock_action",
+              "image": "rock_action",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115629.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "rock_action_[backup1]",
+              "image": "rock_action",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/562996.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "rock_action_[backup2]",
+              "image": "rock_action",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/562997.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_sci",
+              "image": "true_sci",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115660.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_thaifilm",
+              "image": "true_thaifilm",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115823.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo",
+              "image": "hbo",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115704.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_[backup1]",
+              "image": "hbo",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115714.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_signature",
+              "image": "hbo_signature",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115708.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_signature_[backup1]",
+              "image": "hbo_signature",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115712.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_signature_[backup2]",
+              "image": "hbo_signature",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115729.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "th",
+              "image": "th",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115710.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "th_[backup1]",
+              "image": "th",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115711.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "h_history",
+              "image": "h_history",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115715.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_movie_hits",
+              "image": "true_movie_hits",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115720.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax1",
+              "image": "monomax1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115725.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax1_[backup1]",
+              "image": "monomax1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115759.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax1_[backup2]",
+              "image": "monomax1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/813033.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "monomax1_[backup3]",
+              "image": "monomax1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115757.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein1",
+              "image": "bein1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115733.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein1_[backup1]",
+              "image": "bein1",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115807.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "bein2",
+              "image": "bein2",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115809.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "nba",
+              "image": "nba",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115738.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "outdoor",
+              "image": "outdoor",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115749.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_series",
+              "image": "true_series",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115782.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_series_[backup1]",
+              "image": "true_series",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115612.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "true_tennis",
+              "image": "true_tennis",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/11805.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_hits",
+              "image": "hbo_hits",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115833.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_hits_[backup1]",
+              "image": "hbo_hits",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/116079.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_family",
+              "image": "hbo_family",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/116078.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "hbo_family_[backup1]",
+              "image": "hbo_family",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563001.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "rock_entertainment",
+              "image": "rock_entertainment",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/562995.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "rock_entertainment_[backup1]",
+              "image": "rock_entertainment",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115628.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "mono29_plus",
+              "image": "mono29_plus",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/1376243.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            },
+            {
+              "name": "wemen_sport",
+              "image": "wemen_sport",
+              "info": "server http://macete.xyz:2095/",
+              "url": "http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/1417232.m3u8",
+              "user-agent": "Player (Linux; Android 9)",
+              "headers": {
+                "Icy-MetaData": "1",
+                "Accept-Encoding": "identity",
+                "Connection": "Keep-Alive"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
