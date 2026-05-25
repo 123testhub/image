@@ -1,0 +1,541 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="1",spotv1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115304.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="1",spotv1_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115427.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="1",spotv1_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115673.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="1",spotv1_[backup3]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115682.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="1",spotv1_[backup4]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115684.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="1",spotv1_[backup5]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563004.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="1",spotv2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115305.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="1",spotv2_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115433.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="1",spotv2_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115686.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrldx9gNmXR2hZKe8v3CKsF3exEmLOnKtXYQ&s" group-title="1",discovery
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115399.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrldx9gNmXR2hZKe8v3CKsF3exEmLOnKtXYQ&s" group-title="1",discovery_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115652.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/3840px-Cartoon_Network_2010_l" group-title="1",cn
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115410.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/3840px-Cartoon_Network_2010_l" group-title="1",cn_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115632.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/3840px-Cartoon_Network_2010_l" group-title="1",cn_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115654.m3u8
+#EXTINF:-1 tvg-logo="true_film1" group-title="1",true_film1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115415.m3u8
+#EXTINF:-1 tvg-logo="true_film1" group-title="1",true_film1_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115416.m3u8
+#EXTINF:-1 tvg-logo="true_film1" group-title="1",true_film1_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115667.m3u8
+#EXTINF:-1 tvg-logo="cinemax" group-title="1",cinemax
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115420.m3u8
+#EXTINF:-1 tvg-logo="cinemax" group-title="1",cinemax_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563005.m3u8
+#EXTINF:-1 tvg-logo="wb" group-title="1",wb
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115439.m3u8
+#EXTINF:-1 tvg-logo="wb" group-title="1",wb_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563012.m3u8
+#EXTINF:-1 tvg-logo="golfplus" group-title="1",golfplus
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115446.m3u8
+#EXTINF:-1 tvg-logo="golfplus" group-title="1",golfplus_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115698.m3u8
+#EXTINF:-1 tvg-logo="golfplus" group-title="1",golfplus_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115699.m3u8
+#EXTINF:-1 tvg-logo="golfplus" group-title="1",golfplus_[backup3]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115702.m3u8
+#EXTINF:-1 tvg-logo="golfplus" group-title="1",golfplus_[backup4]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115703.m3u8
+#EXTINF:-1 tvg-logo="true_film_asia" group-title="1",true_film_asia
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115498.m3u8
+#EXTINF:-1 tvg-logo="true_film_asia" group-title="1",true_film_asia_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115665.m3u8
+#EXTINF:-1 tvg-logo="monomax2" group-title="1",monomax2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115516.m3u8
+#EXTINF:-1 tvg-logo="monomax2" group-title="1",monomax2_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/813034.m3u8
+#EXTINF:-1 tvg-logo="monomax2" group-title="1",monomax2_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115758.m3u8
+#EXTINF:-1 tvg-logo="truefootball3" group-title="1",truefootball3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115524.m3u8
+#EXTINF:-1 tvg-logo="truefootball3" group-title="1",truefootball3_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115608.m3u8
+#EXTINF:-1 tvg-logo="truesport1" group-title="1",truesport1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115531.m3u8
+#EXTINF:-1 tvg-logo="truesport2" group-title="1",truesport2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115533.m3u8
+#EXTINF:-1 tvg-logo="truesport2" group-title="1",truesport2_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115534.m3u8
+#EXTINF:-1 tvg-logo="truesport2" group-title="1",truesport2_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115790.m3u8
+#EXTINF:-1 tvg-logo="truesport5" group-title="1",truesport5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115535.m3u8
+#EXTINF:-1 tvg-logo="truesport5" group-title="1",truesport5_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115541.m3u8
+#EXTINF:-1 tvg-logo="truesport7" group-title="1",truesport7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115799.m3u8
+#EXTINF:-1 tvg-logo="bein3" group-title="1",bein3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115601.m3u8
+#EXTINF:-1 tvg-logo="bein3" group-title="1",bein3_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115730.m3u8
+#EXTINF:-1 tvg-logo="bein3" group-title="1",bein3_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/813150.m3u8
+#EXTINF:-1 tvg-logo="bein3" group-title="1",bein3_[backup3]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/1376204.m3u8
+#EXTINF:-1 tvg-logo="animal_show" group-title="1",animal_show
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115610.m3u8
+#EXTINF:-1 tvg-logo="animal_show" group-title="1",animal_show_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115619.m3u8
+#EXTINF:-1 tvg-logo="true_asian_more" group-title="1",true_asian_more
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563002.m3u8
+#EXTINF:-1 tvg-logo="true_asian_more" group-title="1",true_asian_more_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563003.m3u8
+#EXTINF:-1 tvg-logo="cricbuzz" group-title="1",cricbuzz
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115614.m3u8
+#EXTINF:-1 tvg-logo="astro_premier" group-title="1",astro_premier
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115615.m3u8
+#EXTINF:-1 tvg-logo="astro_premier2" group-title="1",astro_premier2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115616.m3u8
+#EXTINF:-1 tvg-logo="astro_grand" group-title="1",astro_grand
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115617.m3u8
+#EXTINF:-1 tvg-logo="astro_football" group-title="1",astro_football
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115618.m3u8
+#EXTINF:-1 tvg-logo="axn" group-title="1",axn
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115620.m3u8
+#EXTINF:-1 tvg-logo="rush" group-title="1",rush
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115621.m3u8
+#EXTINF:-1 tvg-logo="movie_sphere" group-title="1",movie_sphere
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115624.m3u8
+#EXTINF:-1 tvg-logo="rock_action" group-title="1",rock_action
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115629.m3u8
+#EXTINF:-1 tvg-logo="rock_action" group-title="1",rock_action_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/562996.m3u8
+#EXTINF:-1 tvg-logo="rock_action" group-title="1",rock_action_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/562997.m3u8
+#EXTINF:-1 tvg-logo="true_sci" group-title="1",true_sci
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115660.m3u8
+#EXTINF:-1 tvg-logo="true_thaifilm" group-title="1",true_thaifilm
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115823.m3u8
+#EXTINF:-1 tvg-logo="hbo" group-title="1",hbo
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115704.m3u8
+#EXTINF:-1 tvg-logo="hbo" group-title="1",hbo_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115714.m3u8
+#EXTINF:-1 tvg-logo="hbo_signature" group-title="1",hbo_signature
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115708.m3u8
+#EXTINF:-1 tvg-logo="hbo_signature" group-title="1",hbo_signature_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115712.m3u8
+#EXTINF:-1 tvg-logo="hbo_signature" group-title="1",hbo_signature_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115729.m3u8
+#EXTINF:-1 tvg-logo="th" group-title="1",th
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115710.m3u8
+#EXTINF:-1 tvg-logo="th" group-title="1",th_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115711.m3u8
+#EXTINF:-1 tvg-logo="h_history" group-title="1",h_history
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115715.m3u8
+#EXTINF:-1 tvg-logo="true_movie_hits" group-title="1",true_movie_hits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115720.m3u8
+#EXTINF:-1 tvg-logo="monomax1" group-title="1",monomax1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115725.m3u8
+#EXTINF:-1 tvg-logo="monomax1" group-title="1",monomax1_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115759.m3u8
+#EXTINF:-1 tvg-logo="monomax1" group-title="1",monomax1_[backup2]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/813033.m3u8
+#EXTINF:-1 tvg-logo="monomax1" group-title="1",monomax1_[backup3]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115757.m3u8
+#EXTINF:-1 tvg-logo="bein1" group-title="1",bein1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115733.m3u8
+#EXTINF:-1 tvg-logo="bein1" group-title="1",bein1_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115807.m3u8
+#EXTINF:-1 tvg-logo="bein2" group-title="1",bein2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115809.m3u8
+#EXTINF:-1 tvg-logo="nba" group-title="1",nba
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115738.m3u8
+#EXTINF:-1 tvg-logo="outdoor" group-title="1",outdoor
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115749.m3u8
+#EXTINF:-1 tvg-logo="true_series" group-title="1",true_series
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115782.m3u8
+#EXTINF:-1 tvg-logo="true_series" group-title="1",true_series_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115612.m3u8
+#EXTINF:-1 tvg-logo="true_tennis" group-title="1",true_tennis
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/11805.m3u8
+#EXTINF:-1 tvg-logo="hbo_hits" group-title="1",hbo_hits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115833.m3u8
+#EXTINF:-1 tvg-logo="hbo_hits" group-title="1",hbo_hits_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/116079.m3u8
+#EXTINF:-1 tvg-logo="hbo_family" group-title="1",hbo_family
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/116078.m3u8
+#EXTINF:-1 tvg-logo="hbo_family" group-title="1",hbo_family_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/563001.m3u8
+#EXTINF:-1 tvg-logo="rock_entertainment" group-title="1",rock_entertainment
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/562995.m3u8
+#EXTINF:-1 tvg-logo="rock_entertainment" group-title="1",rock_entertainment_[backup1]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/115628.m3u8
+#EXTINF:-1 tvg-logo="mono29_plus" group-title="1",mono29_plus
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/1376243.m3u8
+#EXTINF:-1 tvg-logo="wemen_sport" group-title="1",wemen_sport
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 9)
+#EXTVLCOPT:http-header-fields=Icy-MetaData: 1
+#EXTVLCOPT:http-header-fields=Accept-Encoding: identity
+#EXTVLCOPT:http-header-fields=Connection: Keep-Alive
+http://macete.xyz:2095/live/FbH5WVsEqe/6lKuxbHYSs/1417232.m3u8
