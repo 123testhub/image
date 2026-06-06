@@ -32,13 +32,12 @@
       "name": "vnl_6 [BACKUP]",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
       "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl6.m3u8"
-      },
+    },
     {
       "name": "vnl_7 [BACKUP]",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-      "url": "https://lnwthailive.online/player/ge_1646977?stk=c2hvd2Nhc2V8MTc4MDcyOTQ4OTcyMHw0OS4yMzcuNDMuNDZ8NDY4ZjY1YjlhOGM0MWVjODc1MDZjYzc2MzBlNjVlMmI3YmNmOTVjMjQ3ZjRkNzZlMzA2ZGM2ZmQ0NGNmN2IwZg:hFQlXTNIO2qYK5k8G2QYI4"
-      "embed":"true"
+      "url": "https://lnwthailive.online/player/ge_1646977?stk=c2hvd2Nhc2V8MTc4MDcyOTQ4OTcyMHw0OS4yMzcuNDMuNDZ8NDY4ZjY1YjlhOGM0MWVjODc1MDZjYzc2MzBlNjVlMmI3YmNmOTVjMjQ3ZjRkNzZlMzA2ZGM2ZmQ0NGNmN2IwZg:hFQlXTNIO2qYK5k8G2QYI4",
+      "embed": true
     }
   ]
 }
-
