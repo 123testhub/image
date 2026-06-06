@@ -12,7 +12,7 @@
           "name": "VNL 1",
           "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
           "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776148.m3u8",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776151.m3u8",
           "user-agent": "Player (Linux; Android 9)",
           "headers": {
             "Icy-MetaData": "1",
@@ -36,7 +36,7 @@
           "name": "VNL 1[backup2]",
           "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
           "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776150.m3u8",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776158.m3u8",
           "user-agent": "Player (Linux; Android 9)",
           "headers": {
             "Icy-MetaData": "1",
@@ -48,7 +48,7 @@
           "name": "VNL 1[backup3]",
           "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
           "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776150.m3u8",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776159.m3u8",
           "user-agent": "Player (Linux; Android 9)",
           "headers": {
             "Icy-MetaData": "1",
@@ -60,7 +60,19 @@
           "name": "VNL 1[backup4]",
           "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
           "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776150.m3u8",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776160.m3u8",
+          "user-agent": "Player (Linux; Android 9)",
+          "headers": {
+            "Icy-MetaData": "1",
+            "Accept-Encoding": "identity",
+            "Connection": "Keep-Alive"
+}
+        },
+        {
+          "name": "VNL 1[backup5]",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+          "info": "server http://tv-premium-pro.com/",
+          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776179.m3u8",
           "user-agent": "Player (Linux; Android 9)",
           "headers": {
             "Icy-MetaData": "1",
