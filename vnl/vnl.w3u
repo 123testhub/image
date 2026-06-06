@@ -1,0 +1,44 @@
+{
+  "name": "VNL Playlist",
+  "author": "IPTV User",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+  "stations": [
+    {
+      "name": "vnl_1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl1.m3u8"
+    },
+    {
+      "name": "vnl_2 [BACKUP]",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl2.m3u8"
+    },
+    {
+      "name": "vnl_3 [BACKUP]",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl3.m3u8"
+    },
+    {
+      "name": "vnl_4 [BACKUP]",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl4.m3u8"
+    },
+    {
+      "name": "vnl_5 [BACKUP]",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl5.m3u8"
+    },
+    {
+      "name": "vnl_6 [BACKUP]",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl6.m3u8"
+      },
+    {
+      "name": "vnl_7 [BACKUP]",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
+      "url": "https://lnwthailive.online/player/ge_1646977?stk=c2hvd2Nhc2V8MTc4MDcyOTQ4OTcyMHw0OS4yMzcuNDMuNDZ8NDY4ZjY1YjlhOGM0MWVjODc1MDZjYzc2MzBlNjVlMmI3YmNmOTVjMjQ3ZjRkNzZlMzA2ZGM2ZmQ0NGNmN2IwZg:hFQlXTNIO2qYK5k8G2QYI4"
+      "embed":"true"
+    }
+  ]
+}
+
