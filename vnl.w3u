@@ -1,86 +1,19 @@
-{
-  "name": "VNL_TV",
-  "author": "hack by tobi zaru",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-  "url": "",
-  "groups": [
-    {
-      "name": "VNL",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-      "stations": [
-        {
-          "name": "VNL 1",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-          "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776151.m3u8",
-          "user-agent": "Player (Linux; Android 9)",
-          "headers": {
-            "Icy-MetaData": "1",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-          }
-        },
-        {
-          "name": "VNL 1[backup1]",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-          "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776152.m3u8",
-          "user-agent": "Player (Linux; Android 9)",
-          "headers": {
-            "Icy-MetaData": "1",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-            }
-        },
-        {
-          "name": "VNL 1[backup2]",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-          "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776158.m3u8",
-          "user-agent": "Player (Linux; Android 9)",
-          "headers": {
-            "Icy-MetaData": "1",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-            }
-        },
-        {
-          "name": "VNL 1[backup3]",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-          "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776159.m3u8",
-          "user-agent": "Player (Linux; Android 9)",
-          "headers": {
-            "Icy-MetaData": "1",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-            }
-        },
-        {
-          "name": "VNL 1[backup4]",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-          "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776160.m3u8",
-          "user-agent": "Player (Linux; Android 9)",
-          "headers": {
-            "Icy-MetaData": "1",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-}
-        },
-        {
-          "name": "VNL 1[backup5]",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",
-          "info": "server http://tv-premium-pro.com/",
-          "url": "http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776179.m3u8",
-          "user-agent": "Player (Linux; Android 9)",
-          "headers": {
-            "Icy-MetaData": "1",
-            "Accept-Encoding": "identity",
-            "Connection": "Keep-Alive"
-          }
-        }
-      ]
-    }
-  ]
-}
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",vnl_1
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",vnl_2 [BACKUP]
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",vnl_3 [BACKUP]
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",vnl_4 [BACKUP]
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",vnl_5 [BACKUP]
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Volleyball_Nations_League_Logo.png",vnl_6 [BACKUP]
+https://raw.githubusercontent.com/123testhub/image/refs/heads/main/vnl/vnl6.m3u8
