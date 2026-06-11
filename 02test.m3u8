@@ -1,14 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="GloryKickboxing" tvg-name="Glory Kickboxing" group-title="Sports",Glory Kickboxing HD 1080p
+#EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-INDEPENDENT-SEGMENTS
-
-# ====================================================================
-# NETWORK NODE: LIVE STREAMING CONFIGURATION
-# CHANNEL: GLORY KICKBOXING (SPORTS TRIBAL VIA WURL)
-# QUALITY: FULL HD 1080P (PRO BROADCATER COMPLIANT)
-# ====================================================================
-
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aac",NAME="English",LANGUAGE="eng",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2"
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4362312,AVERAGE-BANDWIDTH=4300000,RESOLUTION=1920x1080,FRAME-RATE=29.970,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio-aac",HDCP-LEVEL=NONE,VIDEO-RANGE=SDR
 https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/1f0c45c4-e392-4e78-83e3-0729feffd3e9/5.m3u8
