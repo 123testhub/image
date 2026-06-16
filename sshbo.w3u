@@ -1,0 +1,28 @@
+{
+  "name": "xxx",
+  "author": "Update (16/06/2026)",
+  "info": "ซีรี่ย์พากย์ไทย",
+  "image": "xxx",
+  "groups": [
+    {
+      "name": "A KNIGHT OF THE SEVEN KINGDOMS SEASON 1",
+      "image": "https://nanamovies.org/wp-content/uploads/2026/01/A-Knight-of-the-Seven-Kingdoms-Season-1.jpg",
+      "stations": [
+        {
+          "name": "EP 1",
+          "image": "https://nanamovies.org/wp-content/uploads/2026/01/A-Knight-of-the-Seven-Kingdoms-Season-1.jpg",
+          "url": "https://nanaplayer.com/prmq9hnxmqw0",
+          "referer": "https://embed.nana2play.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "test02",
+          "image": "https://hanimesubth.com/uploads/b3f04893c7748a25fe5e1b2723df60dasrmoxSY.jpg?v=100",
+          "url": "https://hfastooo02.beauty/v1/segment/5022debe557a2979a8e3434368ea9fe8/720p/master.txt",
+          "referer": "https://overlay.hanimesubth.com/v/wet4zcCn",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    }
+  ]
+}
