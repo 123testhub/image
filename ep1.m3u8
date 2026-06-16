@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Stream 720p" tvg-logo="" group-title="ทั่วไป",ช่องรายการทดสอบ
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://master.steamhls88.com/filesr2/201db9e09bcfeadd2188968e9ec63f81/audio/audio_0"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
-https://master.steamhls88.com/filesr2/201db9e09bcfeadd2188968e9ec63f81/720/index
+https://master.steamhls88.com/filesr2/201db9e09bcfeadd2188968e9ec63f81/720/index.m3u8
